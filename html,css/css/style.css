@@ -1,0 +1,32 @@
+.container
+{
+    width:90%;
+    margin:auto;
+}
+.box-1
+{
+    background-color: black;
+    color: antiquewhite;
+    padding: 10px;
+    border-left:10px red solid;
+    
+}
+.button
+{
+ color:#ffffff;
+}
+.branches
+{
+    border:5px solid black;
+    padding: 10px;
+    border-radiusmargin:15px;
+}
+.block
+{
+    float:right;
+    width:33.3%;
+    border:4px solid darkgrey;
+    padding:10px;
+    box-sizing:border-box;
+
+}
